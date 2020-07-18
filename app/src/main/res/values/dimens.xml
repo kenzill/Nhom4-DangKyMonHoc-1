@@ -2,7 +2,7 @@
 <resources>
     //login
     <dimen name="headerTextSize">25sp</dimen>
-    <dimen name="newsMoreTextSize">15sp</dimen>
+    <dimen name="newsMoreTextSize">18sp</dimen>
     <dimen name="loginViewsMargin">50dp</dimen>
 
     //home
